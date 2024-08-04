@@ -67,4 +67,18 @@ Seguir essas quatro fases ajuda a garantir que o uso de IAs generativas seja res
 
 *Prompt Usado para gerar o texto acima: " faça um pequeno artigo sobre a resposabilidade de manipular as ias generativas, colocando 4 fases do processo de desenvolver implementar o plano de responsabiidade: identificar, medida, mitigar e operar."
 
+![_5dc23c2e-2a2a-46a5-8f85-2a37bc8cf34d](https://github.com/user-attachments/assets/d895732b-ce3a-4f3f-8f5a-223fa52a335b)
 
+
+![_ec8fb38f-7b44-4e5c-9a12-757a794b1f4e](https://github.com/user-attachments/assets/f2165bab-4a14-474d-a884-808b09d74c19)
+
+
+
+![_033a1387-1d96-449d-981a-9ecd5cbfe133](https://github.com/user-attachments/assets/ada6b4cd-6149-497d-b83e-b15e1ab09f08)
+
+
+
+![_d1011dc1-2e99-4c21-9c30-bebc87645334](https://github.com/user-attachments/assets/0f5ce7fd-6c6c-4dc3-bba6-6eaf117ce5fa)
+
+
+Prompt Usado para criar as imagens: "crie uma imagem gatos fofinhos nas nuvens segurando estrelas."
